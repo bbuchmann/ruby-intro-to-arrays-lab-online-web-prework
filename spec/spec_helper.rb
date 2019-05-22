@@ -1,3 +1,4 @@
 def Words = ["one","two","three"]
-  puts w
+  puts words [1]
+end 
 
